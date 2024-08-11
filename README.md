@@ -1,4 +1,4 @@
-# Mixture-of-Experts-Papers
+# Mixture-of-Experts-Papers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of exceptional papers and resources on Mixture of Experts and related topics.
 
  ***News: Our Mixture of Experts survey has been released.***
