@@ -38,9 +38,8 @@ title = {THE EVOLUTION OF MIXTURE OF EXPERTS: A SURVEY FROM BASICS TO BREAKTHROU
 </div>
 
 | **Name** | **Paper**                                                    | **Venue**| **Year** |                                              
- | -------- | ------------------------------------------------------------ | --------- | -------- | 
-| The Sparsely-Gated Mixture-of-Experts Layer  | 
-[Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/abs/1701.06538) | arXiv | 2017 |
+| -------- | ------------------------------------------------------------ | --------- | -------- | 
+| The Sparsely-Gated Mixture-of-Experts Layer  | [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/abs/1701.06538) | arXiv | 2017 |
 
 
 ## Collection of Recent MoE Papers
