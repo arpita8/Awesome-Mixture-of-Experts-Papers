@@ -22,6 +22,7 @@ title = {THE EVOLUTION OF MIXTURE OF EXPERTS: A SURVEY FROM BASICS TO BREAKTHROU
 
 # Table of Contents
 - [Sparse Mixture of Experts](#Sparsely-Gated-Mixture-of-Experts)
+- [The Evolution of Mixture of Experts: A Survey from Basics to Breakthroughs](https://github.com/arpita8/Awesome-Mixture-of-Experts-Papers/blob/main/Mixture_of_Experts_Survey_Paper.pdf)
 - [Table of Contents](#table-of-contents)
   - [The papers and related projects](#the-papers-and-related-projects)
     - [Visual Domain MoE](#MoE-in-Computer-Vision)
@@ -30,13 +31,22 @@ title = {THE EVOLUTION OF MIXTURE OF EXPERTS: A SURVEY FROM BASICS TO BREAKTHROU
     - [Enhanching System Performance and Efficiency](#MoE-Enhancing-Performance)
     - [MoE in Recommendation](#Recommendation)
     - [Python Libraries](#Python-Libraries)
-    - [Related Survey](#related-survey)
+
+## Sparse Mixture of Experts
+<div align="center">
+	<img src="https://github.com/arpita8/Awesome-Mixture-of-Experts-Papers/blob/main/MoE.png" alt="Editor" width="700">
+</div>
+
+| **Name** | **Paper**                                                    | **Venue** | **Year** |                                              
+ | -------- | ------------------------------------------------------------ | --------- | -------- | 
+| The Sparsely-Gated Mixture-of-Experts Layer  | 
+[Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/abs/1701.06538) | arXiv | 2017 |
 
 
 ## The papers and related projects
 ### MoE in Visual Domain
-| **Name** | **Paper**                                                    | **Venue** | **Year** |                                              |                       |
- | -------- | ------------------------------------------------------------ | --------- | -------- | ------------------------------------------------------------ | --------------------- |
+| **Name** | **Paper**                                                    | **Venue** | **Year** |                                              
+ | -------- | ------------------------------------------------------------ | --------- | -------- | 
 | MoE-FFD  | [MoE-FFD: Mixture of Experts for Generalized and Parameter-Efficient Face Forgery Detection](https://arxiv.org/abs/2404.08452) | arXiv | 2024 |
 | MLLMs | [MoE-FFD: Mixture of Experts for Generalized and Parameter-Efficient Face Forgery Detection](https:/FFD/arxiv.org/abs/2404.08452) | arXiv | 2024 |
 | MoE-LLaVA | [MoE-LLaVA: Mixture of Experts for Large Vision-Language Models](https://arxiv.org/abs/2401.15947) | arXiv | 2024 |
@@ -58,8 +68,8 @@ title = {THE EVOLUTION OF MIXTURE OF EXPERTS: A SURVEY FROM BASICS TO BREAKTHROU
 
 ### MoE in LLMs
 
-| **Name** | **Paper**                                                    | **Venue** | **Year** |                                              |                       |
- | -------- | ------------------------------------------------------------ | --------- | -------- | ------------------------------------------------------------ | --------------------- |
+| **Name** | **Paper**                                                    | **Venue** | **Year** |    
+ | -------- | ------------------------------------------------------------ | --------- | -------- | 
 | LoRAMoE | [LoRAMoE: Alleviate World Knowledge Forgetting in Large Language Models via MoE-Style Plugin](https://arxiv.org/abs/2312.09979) | arXiv | 2024 |
 | Flan-MoE | [Mixture-of-Experts Meets Instruction Tuning:A Winning Combination for Large Language Models](https://arxiv.org/abs/2305.14705) | ICLR | 2024 |
 | RAPHAEL | [RAPHAEL: Text-to-Image Generation via Large Mixture of Diffusion Paths](https://arxiv.org/abs/2305.18295) | arXiv | 2024 |
@@ -74,8 +84,8 @@ title = {THE EVOLUTION OF MIXTURE OF EXPERTS: A SURVEY FROM BASICS TO BREAKTHROU
 
 ### MoE for Scaling LLMs
 
-| **Name** | **Paper**                                                    | **Venue** | **Year** |                                              |                       |
- | -------- | ------------------------------------------------------------ | --------- | -------- | ------------------------------------------------------------ | --------------------- |
+| **Name** | **Paper**                                                    | **Venue** | **Year** |
+| -------- | ------------------------------------------------------------ | --------- | -------- | 
 | u-LLaVA | [u-LLaVA: Unifying Multi-Modal Tasks via Large Language Model](https://arxiv.org/abs/2311.05348) | arXiv | 2024 |
 | MoLE | [QMoE: Practical Sub-1-Bit Compression of Trillion-Parameter Models](https://arxiv.org/abs/2404.07413) | arXiv | 2024 |
 | Lory | [Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language Model Pre-training](https://arxiv.org/abs/2405.03133) | arXiv | 2024 |
@@ -94,6 +104,55 @@ title = {THE EVOLUTION OF MIXTURE OF EXPERTS: A SURVEY FROM BASICS TO BREAKTHROU
 | Uni-Perceiver-MoE | [Uni-Perceiver-MoE: Learning Sparse Generalist Models with Conditional MoEs ](https://openreview.net/forum?id=agJEk7FhvKL) | NeurIPS | 2022 |
 | SpeechMoE | [SpeechMoE: Scaling to Large Acoustic Models with Dynamic Routing Mixture of Experts](https://arxiv.org/abs/2105.03036) | arXiv | 2021 |
 | Fully-Differential Sparse Transformer | [Sparse is Enough in Scaling Transformers](https://arxiv.org/pdf/2111.12763) | arXiv | 2021 |
+
+### MoE: Enhancing System Performance and Efficiency
+
+| **Name** | **Paper**                                                    | **Venue** | **Year** |
+| -------- | ------------------------------------------------------------ | --------- | -------- | 
+| pMoE | [PMoE: Progressive Mixture of Experts with Asymmetric Transformer for Continual Learning](https://arxiv.org/abs/2407.21571) | arXiv | 2024 |
+| HyperMoE | [HyperMoE: Towards Better Mixture of Experts via Transferring Among Experts](https://arxiv.org/abs/2402.12656) | arXiv | 2024 |
+| BlackMamba | [BlackMamba: Mixture of Experts for State-Space Models](https://arxiv.org/abs/2402.01771) | arXiv | 2024 |
+| ScheMoE | [ScheMoE: An Extensible Mixture-of-Experts Distributed Training System with Tasks Scheduling](https://dl.acm.org/doi/10.1145/3627703.3650083) | arXiv | 2024 |
+| Pre-Gates MoE | [Pre-gated MoE: An Algorithm-System Co-Design for Fast and Scalable Mixture-of-Expert Inference](https://arxiv.org/pdf/2308.12066) | arXiv | 2024 |
+| MoE-Mamba | [MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts](https://arxiv.org/abs/2401.04081) | arXiv | 2024 |
+| Parameter-efficient MoEs | [Pushing Mixture of Experts to the Limit: Extremely Parameter Efficient MoE for Instruction Tuning](https://arxiv.org/abs/2309.05444) | arXiv | 2023 |
+| SMoE-Dropout | [Sparse MoE as the New Dropout: Scaling Dense and Self-Slimmable Transformers](https://arxiv.org/abs/2303.01610) | arXiv | 2023 |
+| StableMoE | [StableMoE: Stable Routing Strategy for Mixture of Experts](https://arxiv.org/abs/2204.08396) | arXiv | 2022 |
+| Alpa | [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://arxiv.org/abs/2201.12023) | arXiv | 2022 |
+| BaGuaLu | [BaGuaLu: targeting brain scale pretrained models with over 37 million cores](https://dl.acm.org/doi/abs/10.1145/3503221.3508417) | ACM | 2022 |
+| MEFT | [MEFT: Memory-Efficient Fine-Tuning through Sparse Adapter](https://arxiv.org/abs/2406.04984) | arXiv | 2024 |
+| EdgeMoE | [EdgeMoE: Fast On-Device Inference of MoE-based Large Language Models](https://arxiv.org/abs/2308.14352) | arXiv | 2023 |
+| SE-MoE | [SE-MoE: A Scalable and Efficient Mixture-of-Experts Distributed Training and Inference System](https://arxiv.org/abs/2205.10034) | arXiv | 2022 |
+| NLLB | [No Language Left Behind: Scaling Human-Centered Machine Translation](https://arxiv.org/abs/2207.04672) | arXiv | 2022 |
+| EvoMoE | [EvoMoE: An Evolutional Mixture-of-Experts Training Framework via Dense-To-Sparse Gate](https://arxiv.org/abs/2112.14397) | arXiv | 2022 |
+| FastMoE | [FastMoE: A Fast Mixture-of-Expert Training System](https://arxiv.org/abs/2103.13262) | arXiv | 2021 |
+| ACE | [ACE: Ally Complementary Experts for Solving Long-Tailed Recognition in One-Shot](https://openaccess.thecvf.com/content/ICCV2021/papers/Cai_ACE_Ally_Complementary_Experts_for_Solving_Long-Tailed_Recognition_in_One-Shot_ICCV_2021_paper.pdf) | ICCV | 2021 |
+| M6-10T | [M6-10T: A Sharing-Delinking Paradigm for Efficient Multi-Trillion Parameter Pretraining](https://arxiv.org/abs/2110.03888) | arXiv | 2021 |
+| GShard | [GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding](https://arxiv.org/abs/2006.16668) | arXiv | 2020 |
+| PAD-Net | [PAD-Net: Multi-Tasks Guided Prediction-and-Distillation Network for Simultaneous Depth Estimation and Scene Parsing](https://arxiv.org/abs/1805.04409) | arXiv | 2018 |
+
+
+### Integrating Mixture of Experts into Recommendation Algorithms
+
+| **Name** | **Paper**                                                    | **Venue** | **Year** |
+| -------- | ------------------------------------------------------------ | --------- | -------- | 
+| MoME | [MoME: Mixture of Multimodal Experts for Generalist Multimodal Large Language Models](https://arxiv.org/abs/2407.12709) | arXiv | 2024 |
+| CAME | [CAME: Competitively Learning a Mixture-of-Experts Model for First-stage Retrieval](https://dl.acm.org/doi/pdf/10.1145/3678880) | ACM | 2024 |
+| SummaReranker | [SummaReranker: A Multi-Task Mixture-of-Experts Re-ranking Framework for Abstractive Summarization](https://arxiv.org/abs/2203.06569) | arXiv | 2022 |
+| MDFEND | [MDFEND: Multi-domain Fake News Detection](https://arxiv.org/abs/2201.00987) | arXiv | 2022 |
+| PLE | [PLE outperforming state-of-the-art MTL models](https://dl.acm.org/doi/10.1145/3383313.3412236) | RecSys | 2021 |
+
+
+### Python Libraries for MoE
+
+| **Name** | **Paper**                                                    | **Venue** | **Year** |
+| -------- | ------------------------------------------------------------ | --------- | -------- | 
+| MoE-Infinity | [MoE-Infinity: Offloading-Efficient MoE Model Serving](https://arxiv.org/abs/2401.14361) | arXiv | 2024 |
+| SMT 2.0 | [SMT 2.0: A Surrogate Modeling Toolbox with a focus on Hierarchical and Mixed Variables Gaussian Processes](https://arxiv.org/abs/2305.13998) | arXiv | 2023 |
+
+<br>
+Hope our survey with collection of all the recent MoE can help your work.
+
 
 
  
