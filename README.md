@@ -24,7 +24,7 @@ title = {THE EVOLUTION OF MIXTURE OF EXPERTS: A SURVEY FROM BASICS TO BREAKTHROU
 - [Sparse Mixture of Experts](#Sparsely-Gated-Mixture-of-Experts)
 - [The Evolution of Mixture of Experts: A Survey from Basics to Breakthroughs](https://github.com/arpita8/Awesome-Mixture-of-Experts-Papers/blob/main/Mixture_of_Experts_Survey_Paper.pdf)
 - [Table of Contents](#table-of-contents)
-  - [The papers and related projects](#the-papers-and-related-projects)
+  - [Collection of Recent MoE Papers](#the-papers-and-related-projects)
     - [Visual Domain MoE](#MoE-in-Computer-Vision)
     - [Large Language Models](#MoE-in-LLMs)
     - [Specialized Experts Network](#Specialized-Experts-Network)
@@ -32,18 +32,18 @@ title = {THE EVOLUTION OF MIXTURE OF EXPERTS: A SURVEY FROM BASICS TO BREAKTHROU
     - [MoE in Recommendation](#Recommendation)
     - [Python Libraries](#Python-Libraries)
 
-## Sparse Mixture of Experts
+## Evolution in Sparse Mixture of Experts
 <div align="center">
 	<img src="https://github.com/arpita8/Awesome-Mixture-of-Experts-Papers/blob/main/MoE.png" alt="Editor" width="700">
 </div>
 
-| **Name** | **Paper**                                                    | **Venue** | **Year** |                                              
+| **Name** | **Paper**                                                    | **Venue**| **Year** |                                              
  | -------- | ------------------------------------------------------------ | --------- | -------- | 
 | The Sparsely-Gated Mixture-of-Experts Layer  | 
 [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/abs/1701.06538) | arXiv | 2017 |
 
 
-## The papers and related projects
+## Collection of Recent MoE Papers
 ### MoE in Visual Domain
 | **Name** | **Paper**                                                    | **Venue** | **Year** |                                              
  | -------- | ------------------------------------------------------------ | --------- | -------- | 
