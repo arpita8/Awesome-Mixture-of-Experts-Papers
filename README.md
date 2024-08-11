@@ -4,6 +4,9 @@ A curated list of exceptional papers and resources on Mixture of Experts and rel
  ***News: Our Mixture of Experts survey has been released.***
  [The Evolution of Mixture of Experts: A Survey from Basics to Breakthroughs](https://www.researchgate.net/publication/382916607_THE_EVOLUTION_OF_MIXTURE_OF_EXPERTS_A_SURVEY_FROM_BASICS_TO_BREAKTHROUGHS)
 
+ ## Links
+ [Mendeley](https://www.mendeley.com/reference-manager/reader-v2/6d1f5496-9cee-3fdf-b081-4eaf2b6c9eb7/3903bd7b-e6a3-d6bd-340b-c3187d52e179) | [Research Gate](https://www.researchgate.net/publication/382916607_THE_EVOLUTION_OF_MIXTURE_OF_EXPERTS_A_SURVEY_FROM_BASICS_TO_BREAKTHROUGHS) | [PDF](https://github.com/arpita8/Awesome-Mixture-of-Experts-Papers/blob/main/Mixture_of_Experts_Survey_Paper.pdf)
+
 <div align="center">
 	<img src="https://github.com/arpita8/Mixture-of-Experts-Papers/blob/dddbcde85d73c999f764f7c9228a6f39a8812751/Screenshot%202024-08-11%20at%201.16.51%20AM.png" alt="Editor" width="700">
 </div>
@@ -22,7 +25,6 @@ title = {THE EVOLUTION OF MIXTURE OF EXPERTS: A SURVEY FROM BASICS TO BREAKTHROU
 
 # Table of Contents
 - [Sparse Mixture of Experts](#Sparsely-Gated-Mixture-of-Experts)
-- [The Evolution of Mixture of Experts: A Survey from Basics to Breakthroughs](https://github.com/arpita8/Awesome-Mixture-of-Experts-Papers/blob/main/Mixture_of_Experts_Survey_Paper.pdf)
 - [Table of Contents](#table-of-contents)
   - [Collection of Recent MoE Papers](#the-papers-and-related-projects)
     - [Visual Domain MoE](#MoE-in-Computer-Vision)
