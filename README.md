@@ -5,7 +5,7 @@ A curated list of exceptional papers and resources on Mixture of Experts and rel
  [The Evolution of Mixture of Experts: A Survey from Basics to Breakthroughs](https://www.researchgate.net/publication/382916607_THE_EVOLUTION_OF_MIXTURE_OF_EXPERTS_A_SURVEY_FROM_BASICS_TO_BREAKTHROUGHS)
 
 <div align="center">
-	<img src="https://github.com/arpita8/Mixture-of-Experts-Papers/blob/dddbcde85d73c999f764f7c9228a6f39a8812751/Screenshot%202024-08-11%20at%201.16.51%20AM.png" alt="Editor" width="700">
+	<img src="https://github.com/arpita8/Awesome-Mixture-of-Experts-Papers/blob/main/Paper_List.png" alt="Editor" width="700">
 </div>
 
  ## Links
